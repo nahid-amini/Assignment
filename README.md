@@ -10,7 +10,7 @@
  
   #### How to run test
   ### Make sure you update the config.py with proper values
-  * From python-Selenium folderm run pytest Tests
+  * From python-Selenium folder, run pytest Tests
    
   #### PythonTestResult.png
   * Result of successful pytest run  
