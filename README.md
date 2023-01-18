@@ -6,3 +6,5 @@
  Result of the test is attached in the screenshot
 
 #### Python-Selenium
+
+Includes UI test for login and main(home) page. To test, run pytest Tests from python-Selenium
