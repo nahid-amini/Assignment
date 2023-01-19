@@ -6,7 +6,7 @@ class TestData:
     PASSWORD = ""
     FAKE_USER = "fakeuser@abc.com"
     ACCOUNT_HOLDER_NAME = ""
-    ACCOUNT_TYPE = "Developer Plan"
+    ACCOUNT_TYPE = ""
     SUBSCRIPTION_RENEWAL = ""
     PROJECT = "D-Wave Testing Production"
     LOGIN_PAGE_TITLE = "D-Wave Leap Log In | D-Wave Leap"
